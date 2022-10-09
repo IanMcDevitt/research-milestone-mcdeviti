@@ -10,4 +10,5 @@ first terminal npm start then open (ios or android)
 
 
 
-https://youtu.be/EUbPZ8RsbSw 
+https://youtu.be/MS5ofdJfDEI 
+
