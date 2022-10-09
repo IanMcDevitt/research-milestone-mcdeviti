@@ -55,7 +55,7 @@ export default  function App() {
       {Loading ? ( <Text>Loading...</Text>) : (
         response.map((item)=>(
           <View>
-            <Text>Color code {item.id}.{item.colorcode}</Text>
+            <Text>Submission {item.id}.{item.colorcode}</Text>
             </View>
 
         ))
